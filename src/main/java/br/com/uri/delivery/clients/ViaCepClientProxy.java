@@ -2,7 +2,6 @@ package br.com.uri.delivery.clients;
 
 
 import br.com.uri.delivery.dto.AddressCepDTO;
-import lombok.extern.slf4j.Slf4j;
 import org.springframework.stereotype.Service;
 
 @Service
